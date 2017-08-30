@@ -1,0 +1,26 @@
+.sehife{
+	width:900px; height:600px; margin:30px auto;
+}
+.shah{
+	width:900px; height:90px;background-color:lightgrey; 
+}
+.com{
+	width:150px; height:33px; background-color:white;margin-top:20px;margin-left:20px; float:left;
+border-radius: 10px; text-align:center; padding-top:17px; float:left;
+	}
+	.exa {
+		float:right; height:33px;  margin-top:20px;
+	
+	}
+	li{display:inline-block;
+		 
+	list-style: none; width:100px; height:40px; 
+	}
+	
+	.ikinci{
+		width:900px; height:200px;background-color:lightgrey; float:left; margin-top:20px;
+	}
+	.video{
+		width:400px; height:150px; background-color:white;margin-top:10px;  margin-left:10px;
+		
+	}
